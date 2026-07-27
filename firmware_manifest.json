@@ -1,0 +1,22 @@
+{
+  "manifest_version": 1,
+  "updated_at": "2026-07-26T00:00:00Z",
+  "artifacts": [
+    {
+      "version": "1.0.1",
+      "build": 1,
+      "protocol": 1,
+      "channel": "TEST",
+      "variant": "JFM_1",
+      "hardware": ["JFM_1_REV_A"],
+      "minimum_app": { "version_code": 1, "version_name": "1.0.0" },
+      "release_notes": "OTA test image JFM_1 v1.0.1",
+      "published_date": "2026-07-26",
+      "mandatory_update": false,
+      "filename": "JFM_1_v1.0.1.bin",
+      "url": "https://github.com/Muhammad-1991/jfm-firmware/releases/download/v1.0.1/JFM_1_v1.0.1.bin",
+      "size": 1344688,
+      "sha256": "a71a588c4ce9bb8b3dec1192f980e947c906c5642cfd60aa2029f4eedba5d7e6"
+    }
+  ]
+}
