@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "updated_at": "2026-07-30T00:00:00Z",
+  "updated_at": "2026-08-02T00:00:00Z",
   "artifacts": [
     {
       "version": "1.0.1",
@@ -15,8 +15,8 @@
       "mandatory_update": false,
       "filename": "JFM_1_v1.0.1.bin",
       "url": "https://github.com/Muhammad-1991/jfm-firmware/releases/download/v1.0.1/JFM_1_v1.0.1.bin",
-      "size": 1344688,
-      "sha256": "a71a588c4ce9bb8b3dec1192f980e947c906c5642cfd60aa2029f4eedba5d7e6"
+      "size": 1352128,
+      "sha256": "5f4cfca9de0ce3550c9c217d1f9d230de84dbef61f49251f76944f389c1e212d"
     },
     {
       "version": "1.0.2",
